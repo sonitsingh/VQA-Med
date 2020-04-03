@@ -21,7 +21,7 @@ Visual Question Answering in the Medical Domain (VQA-Med)
 - [Tlemcen University at ImageCLEF 2019 Visual Question Answering Task](http://ceur-ws.org/Vol-2380/paper_117.pdf)
 - [Medical Visual Question Answering at Image CLEF 2019- VQA Med](http://ceur-ws.org/Vol-2380/paper_147.pdf)
 - [An Encoder-Decoder model for visual question answering in the medical domain](http://ceur-ws.org/Vol-2380/paper_124.pdf)
-- [JUST at ImageCLEF 2019 Visual Question Answering in the Medical Domain](http://ceur-ws.org/Vol-2380/paper_125.pdf) [code](https://github.com/bashartalafha/VQA-Med)
+- [JUST at ImageCLEF 2019 Visual Question Answering in the Medical Domain](http://ceur-ws.org/Vol-2380/paper_125.pdf) [[code]](https://github.com/bashartalafha/VQA-Med)
 - [TUA1 at ImageCLEF 2019 VQA-Med: A classification and generation model based on transfer learning](http://ceur-ws.org/Vol-2380/paper_190.pdf)
 - [Ensemble of Streamlined Bilinear Visual Question Answering Models for the ImageCLEF 2019 Challenge in the Medical Domain](http://ceur-ws.org/Vol-2380/paper_64.pdf)
 
