@@ -2,12 +2,15 @@
 Visual Question Answering in the Medical Domain (VQA-Med)
 
 ## 2020
-- Overview of VQA-Med
+- To be added
 
-### VQA-Med-2019 Challenge
+### VQA-Med-2020 Challenge
 - To be added
 
 ## 2019
+
+### Papers
+- [Overcoming Data Limitation in Medical Visual Question Answering](https://arxiv.org/abs/1909.11867)
 
 ### VQA-Med-2019 Challenge
 - [ImageCLEF 2019 VQA-Med Leaderboard](https://www.crowdai.org/challenges/imageclef-2019-vqa-med/leaderboards)
