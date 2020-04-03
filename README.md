@@ -1,6 +1,9 @@
 # VQA-Med
 Visual Question Answering in the Medical Domain (VQA-Med)
 
+## Dataset
+- [A dataset of clinically generated visual questions and answers about radiology images](https://www.nature.com/articles/sdata2018251)
+
 ## 2020
 - To be added
 
@@ -11,6 +14,8 @@ Visual Question Answering in the Medical Domain (VQA-Med)
 
 ### Papers
 - [Overcoming Data Limitation in Medical Visual Question Answering](https://arxiv.org/abs/1909.11867)
+- [MoBVQA: A Modality based Medical Image Visual Question Answering System](https://ieeexplore.ieee.org/abstract/document/8929456)
+- 
 
 ### VQA-Med-2019 Challenge
 - [ImageCLEF 2019 VQA-Med Leaderboard](https://www.crowdai.org/challenges/imageclef-2019-vqa-med/leaderboards)
