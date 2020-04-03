@@ -1,12 +1,14 @@
 # VQA-Med
 Visual Question Answering in the Medical Domain (VQA-Med)
 
-## Dataset
+## Datasets
 - [A dataset of clinically generated visual questions and answers about radiology images](https://www.nature.com/articles/sdata2018251)
 - [Visual Dialog for Radiology: Data Curation and First Steps](https://vigilworkshop.github.io/static/papers/15.pdf)
 - [PathVQA: 30000+ Questions for Medical Visual Question Answering](https://arxiv.org/abs/2003.10286)
 
 ## 2020
+
+### Papers
 - [CGMVQA: A New Classification and Generative Model for Medical Visual Question Answering](https://ieeexplore.ieee.org/document/9032109)
 
 ### VQA-Med-2020 Challenge
